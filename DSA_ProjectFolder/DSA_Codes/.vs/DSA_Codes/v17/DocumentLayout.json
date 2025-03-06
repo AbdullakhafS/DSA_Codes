@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AbdullakhafSirajuddi\\source\\repos\\AbdullakhafS\\DSA_Codes\\DSA_ProjectFolder\\DSA_Codes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B696579-B169-4C00-9A51-A4AE43716B33}|DSA_Code\\DSA_Code.csproj|c:\\users\\abdullakhafsirajuddi\\source\\repos\\abdullakhafs\\dsa_codes\\dsa_projectfolder\\dsa_codes\\dsa_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B696579-B169-4C00-9A51-A4AE43716B33}|DSA_Code\\DSA_Code.csproj|solutionrelative:dsa_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AbdullakhafSirajuddi\\source\\repos\\AbdullakhafS\\DSA_Codes\\DSA_ProjectFolder\\DSA_Codes\\DSA_Code\\Program.cs",
+              "RelativeDocumentMoniker": "DSA_Code\\Program.cs",
+              "ToolTip": "C:\\Users\\AbdullakhafSirajuddi\\source\\repos\\AbdullakhafS\\DSA_Codes\\DSA_ProjectFolder\\DSA_Codes\\DSA_Code\\Program.cs",
+              "RelativeToolTip": "DSA_Code\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:46:51.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
