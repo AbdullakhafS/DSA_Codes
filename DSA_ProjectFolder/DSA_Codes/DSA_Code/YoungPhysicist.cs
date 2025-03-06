@@ -1,6 +1,4 @@
-﻿using System;
-
-public class YoungPhysicist
+﻿public class YoungPhysicist
 {
     static void Main()
     {
